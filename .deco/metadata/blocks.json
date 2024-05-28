@@ -44,5 +44,13 @@
   "/.deco/blocks/deco-htmx.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/htmx.ts"
+  },
+  "/.deco/blocks/deco-blog.json": {
+    "blockType": "apps",
+    "__resolveType": "site/apps/deco/blog.ts"
+  },
+  "/.deco/blocks/collections%2Fblog%2Fposts%2F4b83ea3503af.json": {
+    "blockType": "loaders",
+    "__resolveType": "blog/loaders/Blogpost.ts"
   }
 }
