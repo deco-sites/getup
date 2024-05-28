@@ -1,0 +1,9 @@
+{
+  "__resolveType": "blog/sections/Seo/SeoBlogPost.tsx",
+  "jsonLD": {
+    "@type": "BlogPostPage",
+    "post": {
+      "__resolveType": "collections/blog/posts/4b83ea3503af"
+    }
+  }
+}
